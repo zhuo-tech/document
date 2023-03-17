@@ -1,1 +1,165 @@
-介绍
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6d5f5ca237e64cae9097bf6acd0db9ea~tplv-k3u1fbpfcp-zoom-1.image) ![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ae660cc22864fbbaff8a16ef6487f42~tplv-k3u1fbpfcp-zoom-1.image)
+## 合肥灼灼信息技术有限公司 
+
+[Laf-yun-开发平台](https://www.lafyun.com)
+
+## 公司简介
+**合肥灼灼信息技术有限公司**  致力于大健康服务业提供智能数字化解决方案，中医健康科技化为使命，以“让每个人都能享受中医健康服务”为愿景，结合人工智能、大数据技术等工具，建立“智能化采集、数据化分析、标准化方案、系统化管理”四大健康管理服务体系，专注健康服务实体机构提供智能数字化解决方案。
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4cf87bfc7cde4cf2b20bd1bad6f7807d~tplv-k3u1fbpfcp-zoom-1.image)
+---
+
+## 我们的团队
+```
+韩可可
+架构师/核心开发
+
+- 曾就职于IBM负责移动电信业务核心系统的设计和开发
+- 有大型互联网分布式系统的架构设计和开发经验
+- 在教培行业服务于（金宝贝｜昂立｜北辰）等知名企业，负责核心业务系统的架构设计、产品研发
+- 拥有7年的丰富工作经验，尤其擅长教培、金融、电信、健康行业的数字化升级改造。
+```
+```
+严甲甲
+核心开发/PM
+
+- 曾就职于IBM负责电信业务
+- 有大型互联网分布式系统的架构设计和开发经验
+- 拥有10年以上丰富工作经验，尤其擅长大规模项目管理。
+```
+```
+丁镇镇
+业务专家/开发工程师
+- 拥有8年的丰富开发工作经验，尤其擅长大型电商平台建设
+```
+
+---
+
+## 主营业务
+ 公司以“**硬件+软件+服务**”三位一体的业务模型，通过线上**科普教育**、**教学培训**、**商城营销**、**健康康养**、**实体门店**、**人才信息库**等形式，为健康类企业提供**健康检测智能化**、**健康数据可视化**、**健康服务标准化**、**服务管理系统化**等服务。目前已服务月子中心、产康机构、医疗机构、养老机构、康养机构、养生会所、妇幼保健机构、培训机构等**100多**家企业
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b19ddaad02194989ab2357af82a79a4a~tplv-k3u1fbpfcp-zoom-1.image)
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac65f4f53994e0ea1d175464fc386db~tplv-k3u1fbpfcp-zoom-1.image)
+![image](https://user-images.githubusercontent.com/11770232/174217360-24fc7ebf-4150-46a7-976d-0c354ea2c3cb.png)
+
+
+### **考试培训SaaS服务平台**
+#### 在线教育考试培训系统是专注于职业教育培训机构、知识付费、讲师培训、企业内训等提供一套完整在线教育解决方案。产品集合了直播教学、直播会议、考试测评、表单报名、三级分销、调查问卷、教学教务、渠道合作、订单支付等功能集一身的线上服务平台。帮助企业、作者、学校提升工作效率，树立品牌形象、营销数据分析实现线上线下全面获客
+ ![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e9ed4b05a2444e785ccf163392a9fb5~tplv-k3u1fbpfcp-zoom-1.image)
+### **商城营销SaaS服务平台**
+#### 在线商城营销系统致力于为健康服务实体机构提供线上商城营销智能数字化一站式解决方案，产品集合了商品管理、直播带货、电子惠券、拼团，秒杀、砍价、积分、分销等营销活动、支付订单、财务管理、物流配送、会员卡等功能，全渠道引流获客，整合线上线下全方位营销。
+ ![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8d00775f42e949f08c16dfe84a65a6f9~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **健康调养SaaS服务平台**
+#### 健康数据库，包含了人体与健康相关的各类大数据体系，对照人身体结构图点，研判生活习惯对健康的影响，结合中医适宜技术合西医诊断理论指引，系统的围绕以中医调理为主线的专业数据算法，通过可视化的数据看板，使数据起到了承上启下的作用。承上可以与各类体质检测设备形成系统，完成设健康检测合报告的输出；启下能对接各类体质调理解决方案，形成健康管理系统。运用数据打通健康咨询、预约房屋、体质健康检测、报告解读、调理建议、产品植入、效果根据的技术壁垒，使数据系统不只是单调的字母，更是解决健康问题的重要依据
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a2c4fc191e784c60af3112a47062fb07~tplv-k3u1fbpfcp-zoom-1.image)
+   
+### **人才库SaaS服务平台**
+#### 健康人才库的建设，其根本是为了解决健康服务行业人才严重的短缺的实际情况。健康服务行业从业人员的整体素质被人诟病已久，从业者年龄大，学历低，收入不稳定，介入门槛低，高素质、专业技能强的人才匮乏是健康服务业发展的最大障碍。通过多年的市场调研和探索，特将人才培养与互联网思维进行深度融合，打造一套完整的健康人才解决方案，目前服务于超200家健康服务实体机构，解决了各类机构人才短缺的现状，极大程度上缓解了健康是服务实体机构对人才的需求，主力健康产业稳定发展。
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1be99fcdd69e40dabd5ea42edde7ed94~tplv-k3u1fbpfcp-zoom-1.image)
+![image](https://user-images.githubusercontent.com/11770232/173553915-be1649af-4d39-4495-89d6-64524ccf7881.png)
+
+### **健康科普SaaS服务平台**
+#### 专家科普系统，囊括了众多再大健康领域各细分领域颇具建树的领导、专家、学者，从而帮助众多健康服务实体机构却饭专业的智库而导致的技能、服务、营销水平层差不齐，特打造能为健康服务实体机构的顶级智能团。通过线上平台可以放健康服务实体机构的经营者和顾客，零距离接触专家智囊，解决关乎健康的实际问题，利用线上科普教育，让更多的人建立健康意识，学习健康知识，更能帮助有意向者进行创业和就业孵化，为健康服务实体机构提供经营痛点的解决方案。
+![image](https://user-images.githubusercontent.com/11770232/173568722-91505943-b7f2-4634-804b-7c5d13dda7dc.png)
+
+### **实体门店SaaS服务平台**
+#### 线上实体营销解决方案是经过数以千计的健康服务实体门店运营验证所形成的一套完整的营销解决方案，以互联网+为入口，结合`软件+硬件+服务` 三位一体的服务模式，打造个性哈独立的智能数字化运营平台，是当前健康服务实体门店完成转型和提升的必备方案，更是健康服务实体门店打造差异化经营、突围困境的杀手锏。
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd8475cfb9bb436799ef46fd0958fac7~tplv-k3u1fbpfcp-zoom-1.image)
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2519f064dc3044ee97ed8e923dc9cfc5~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **区域精准化营销SaaS系统**
+#### 对于收集到的用户信息进行智能分析，自动标注用户来源，建立社交画像、行为、偏好等标签体系，通过评分机制区分用户价值、意向度、活跃度，通过智能化群组来识别各类用户关键指标。对于销售线索的渠道来源的分析和针对用户行为的判断可以帮助机构方判断该家长的特性需求 `接入智能话机，回访Leads`
+![image](https://user-images.githubusercontent.com/11770232/173557526-1eb31578-1e95-4416-8f02-0d54c5494768.png)
+
+## 我们的案例
+### **女性乳腺健康智慧服务平台**
+- 为 **浩海集团公司（女性健康龙头企业）** 打造的健康产业的SaaS集群智慧服务平台。
+- 考试培训SaaS服务平台已为几十家实体门店输出上千名专业的乳腺健康人才。
+- 健康商城SaaS服务平台已为上百家门店带来了流量，促进门店生意的活跃。
+- 健康调养SaaS服务平台已为成千上万女性持续提供疗养服务和健康诊断。
+- 人才库SaaS服务平台能够为企业沉淀专业人才，并为人才标签画像。
+- 健康科普SaaS服务平台是一个线上交流的服务平台，有专业的乳腺专家为用户健康答疑。
+- 平台从上线以来,已为客户带来上千万的营收,合作的渠道倍数增长。
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ae18c7864d004a62853cbe02e63ee20b~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **中医大健康智慧服务平台**
+- 为 **春甫集团公司（中医健康龙头企业）** 数字化转型。
+- 考培SaaS服务平台已为上百家门店输出上千名专业的中医健康人才，解决了门店找人难的核心问题。
+- 商城SaaS服务平台已打通线上线下，促进门店产品、服务的售卖。目前门店的总营收已翻了10倍以上。
+- 健康信息库SaaS服务平台累计服务不同群体5000余人。
+- 人才库SaaS服务平台为人才标签画像，企业沉淀专业人才
+- 健康科普SaaS服务平台是一个线上交流的服务平台，为用户健康答疑。
+- 平台从上线以来,已为客户带来上千万的营收,合作的渠道倍数增长。
+- 整合SaaS服务汇聚，通过大数据分析，供企业决策
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2147ffd87c034651925b364a07bd5e84~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **智慧党建SaaS平台**
+`党建任务管理` `党建任务落实` `党建知识总库` `文档统一归档` `上传下达统一` `宣传大厅展示` `度数据可视化`
+
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6d052be58e744d40991d41b9a0d067cd~tplv-k3u1fbpfcp-zoom-1.image)
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/25d6610d8f204250b7bcd64ba5ea20bc~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **智慧校园**
+`物联网智慧校园 电子班牌、学生卡、考勤机、健康体检`
+
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4b75f28a99154f78bd17ef0e6648d289~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **无人驾驶摆渡车**
+`车联网 3D地图可视化 视频媒体 资源、设备监控`
+
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3fafc9924fb04db588eb27ccdd5b52c7~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **学习就业**
+`安卓｜苹果 App 视频点播 教学教务 招聘求职`
+
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a6c6d5f6ab3b4f49bc84635eb9828ae9~tplv-k3u1fbpfcp-zoom-1.image)
+
+### **礼品卡**
+`小程序 商城  物流 兑换 卡制作 发放 核销 回收 转让`
+
+![image](https://user-images.githubusercontent.com/11770232/180044270-03c5696b-ee9f-4762-acad-6eb36422a906.png)
+
+### **智慧校园**
+`公众号 云支付｜云收单｜云缴费 物联网 闸机(刷卡｜扫码｜刷脸｜考勤｜报警｜) 智慧电控（计费｜预警｜健康诊断｜安全上报）`
+`OA（工作流审批）学工系统 ERP（财务结算）资产管理（出入库｜资产盘点｜折损｜）`
+
+![image](https://user-images.githubusercontent.com/11770232/180052948-6fa58595-1492-4936-9212-3debe35b5824.png)
+![image](https://user-images.githubusercontent.com/11770232/180051393-a324832d-f1d6-4ac4-a4da-481714bb62fe.png)
+![image](https://user-images.githubusercontent.com/11770232/180050410-2fa73d71-8314-4542-a75f-55f2f0637e2f.png)
+
+
+### **边缘计算**
+`小程序 设备管理（召唤 关闭 位置上报 导航定位 分配 消息推送 报警）云存储 云点播`
+![image](https://user-images.githubusercontent.com/11770232/180048665-681789da-e450-45b8-ac24-b0726a0ec447.png)
+
+### **合同管理系统**
+`PC 工作流程引擎 办公审批`
+![image](https://user-images.githubusercontent.com/11770232/180113411-f686ce8d-abd1-41ff-9d36-c62d069c737a.png)
+
+### **车辆管理系统**
+- 提升合作伙伴管理水平：通过为车辆租赁公司、维保公司和保险公司的服务提供有效评价手段，将履约、服务考核做到常态化、规范化、统一化
+- 提升分公司的服务能力：通过将租赁公司的考核权限下沉到分公司，提升外部公司对分公司的服务质量，解决考核与服务脱节的问题
+- 提升内部客户满意度：通过规范驾驶行为、量化服务工作等手段，及时准确评估驾驶员的服务质量，建立服务导向的量化薪酬标准，提升内部客户满意度
+
+![image](https://user-images.githubusercontent.com/11770232/180114005-d2bb7291-c126-4f37-ad5f-9e9a113346e7.png)
+![image](https://user-images.githubusercontent.com/11770232/180114056-9d3d9520-0e1e-4e7c-9b0e-e834004df4bc.png)
+
+### **流程管理平台**
+`作流程引擎 办公审批`
+![image](https://user-images.githubusercontent.com/11770232/180114280-edc3d748-943b-4acf-92bb-720ae023b2d6.png)
+
+### **融创酒店小程序—管家助手**
+`小程序 微信支付 预约 发票
+![image](https://user-images.githubusercontent.com/11770232/180114598-05581a89-82c7-4c98-bdaa-d6394287b432.png)
+
+### **通管局建设平台—资源规划**
+`大数据 审批 分析 勘测 3D地图可视化`
+
+![image](https://user-images.githubusercontent.com/11770232/180115235-41466e63-eb44-43eb-9e10-8215eba3b5e8.png)
+![image](https://user-images.githubusercontent.com/11770232/180115071-d8acaee2-3079-4a66-8540-b2c379dadeec.png)
+
+### **金宝贝（北美）品宣官网—课程表**
+`PC 早教 教学教务 课程`
+![image](https://user-images.githubusercontent.com/11770232/180115490-0b9932c1-610c-4d80-a573-6af010ef53fa.png)
+
+
+
